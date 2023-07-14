@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 int countEvens(int input1,int input2,int input3,int input4, int input5)
+{
  // Read only region end
  // Write code here
  int cnt=0;
