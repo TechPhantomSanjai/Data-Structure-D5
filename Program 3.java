@@ -8,7 +8,7 @@ class UserMainCode
  int cnt=0;
  if(input1<0) input1=(-1)*input1;
  if(input2<0) input2=(-1)*input2;
- if(input3<0) input3-(-1)*input3;
+ if(input3<0) input3=(-1)*input3;
  if(input4<0) input4=(-1)*input4;
  if(input5<0) input5=(-1)*input5;
  if(input1%2!=0) cnt++;
